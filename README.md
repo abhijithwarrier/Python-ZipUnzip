@@ -1,5 +1,5 @@
 # PythonZipUnzip
-PYTHON GUI TO Zip And unZip FILES USING zipfile() LIBRARY OF PYTHON
+PYTHON GUI TO Zip And unZip FILES USING zipfile LIBRARY OF PYTHON 🐍💻
 
 The ZIP file format is a common archive and compression standard. This module provides tools to create, read, write, append, and list a ZIP file.
 
